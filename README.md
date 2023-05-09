@@ -22,6 +22,9 @@ You will also need to install the following dependencies:
 Here are some example results from the project:
 
 
+![download](https://github.com/naveenbharathi-it21/Dent-and-scratch-detection-using-detectron/assets/95202935/8b527c8a-1932-4eb2-a084-6ea67aece5a0)
+
+
 
 
 
