@@ -21,9 +21,9 @@ You will also need to install the following dependencies:
 
 Here are some example results from the project:
 
-![Sample result 1](sample_result_1.png)
 
-![Sample result 2](sample_result_2.png)
+
+
 
 ## Conclusion
 
